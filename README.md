@@ -8,7 +8,7 @@
 - Сделать pull request
 - Прислать pull request
 
-- Критерии оценки:
+# Критерии оценки:
 - PR прислан
 - Есть README.md
 - Есть .gitignore
